@@ -1,0 +1,45 @@
+﻿import java.util.*;
+
+class Reverse {
+
+	public static void main(String[] args) {
+		new Reverse();
+	}
+
+	public int[] reverse(int[] array) {
+		int p = array.length - 1;
+		int[] A = (int[])array.clone();
+		for (int i = 0; i<p-i; i++) {
+		    int x = A[i];
+		    A[i] = A[p-i];
+		    A[p-i] = x;
+		}
+		return A;
+	}
+
+	public List<Integer> reverse(List<Integer> list) {
+		List<Integer> A = new ArrayList<Integer>(list);
+		int p = A.size() - 1;
+		for (int i = 0; i<p-i; i++) {
+		    int x = A.get(i);
+		    A.set(i, A.get(p-i) );
+		    A.set(p-i, x);
+		}
+		return A;
+	}
+
+	public Reverse() {
+		/*
+		int[] B = {1,2,3,4,5,6,7,8,9,10};
+		int[] C = reverse(B);
+		System.out.println("B: " + Arrays.toString(B) );
+		System.out.println("C: " + Arrays.toString(C) );
+		List<Integer> _B = new ArrayList<Integer>();
+		for (int i = 1; i<=10; i++)
+			_B.add(i);
+		List<Integer> _C = reverse(_B);
+		System.out.println("_B: " + _B );
+		System.out.println("_C: " + _C );
+		*/
+	}
+}

@@ -1,0 +1,12 @@
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Debug\TypingOfTheDead_DictionaryCreator.exe.config
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Debug\TypingOfTheDead_DictionaryCreator.csprojResolveAssemblyReference.cache
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Debug\TypingOfTheDead_DictionaryCreator.Form1.resources
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Debug\TypingOfTheDead_DictionaryCreator.Properties.Resources.resources
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Debug\TypingOfTheDead_DictionaryCreator.csproj.GenerateResource.Cache
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Debug\TypingOfTheDead_DictionaryCreator.exe
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Debug\TypingOfTheDead_DictionaryCreator.pdb
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Debug\TypingOfTheDead_DictionaryCreator.exe
+c:\users\oliver\documents\visual studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Debug\TypingOfTheDead_DictionaryCreator.pdb
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Debug\test1.txt
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Debug\TypingOfTheDead.ico
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Debug\test2.txt

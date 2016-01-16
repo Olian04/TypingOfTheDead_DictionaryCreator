@@ -1,0 +1,11 @@
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Release\TypingOfTheDead_DictionaryCreator.exe.config
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Release\test1.txt
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Release\test2.txt
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Release\TypingOfTheDead.ico
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Release\TypingOfTheDead_DictionaryCreator.exe
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\bin\Release\TypingOfTheDead_DictionaryCreator.pdb
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Release\TypingOfTheDead_DictionaryCreator.Form1.resources
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Release\TypingOfTheDead_DictionaryCreator.Properties.Resources.resources
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Release\TypingOfTheDead_DictionaryCreator.csproj.GenerateResource.Cache
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Release\TypingOfTheDead_DictionaryCreator.exe
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\TypingOfTheDead_DictionaryCreator\TypingOfTheDead_DictionaryCreator\obj\Release\TypingOfTheDead_DictionaryCreator.pdb
